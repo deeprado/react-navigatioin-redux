@@ -1,0 +1,1 @@
+react-navigation 4  整合 redux 示例
