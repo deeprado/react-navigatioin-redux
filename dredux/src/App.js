@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Provider} from 'react-redux';
-import AppWithNavigationState from './redex/navigator/AppNavigators';
-import configureStore from './redex/store';
+import AppWithNavigationState from './redux/navigator/AppNavigators';
+import configureStore from './redux/store';
 
 const store = configureStore();
 

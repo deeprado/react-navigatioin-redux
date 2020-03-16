@@ -2,7 +2,7 @@ import React from 'react';
 import {StyleSheet, Text, View, Button} from 'react-native';
 import {connect} from 'react-redux';
 
-import {onThemeChange} from '../redex/actions/theme';
+import {onThemeChange} from '../redux/actions/theme';
 
 import TabBarComponent from '../components/TabBarComponent';
 
